@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/uc?id=1-43Bgng_OhpbEWxjrL-j_8Appgc4Cvzp%2Fview%3Fauthuser%3D0&export=download&authuser=0
+  ROM_URL: https://ava2.androidfilehost.com/dl/TTKR39WYB5hS3yDZoYckAQ/1604820055/673956719939821639/Blur_Version.27.21.2.payton_fi.google_fi.en.US?
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
