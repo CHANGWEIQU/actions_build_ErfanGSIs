@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ava2.androidfilehost.com/dl/TTKR39WYB5hS3yDZoYckAQ/1604820055/673956719939821639/Blur_Version.27.21.2.payton_fi.google_fi.en.US?
+  ROM_URL: http://getmega.net/download/file_a27b411de7/ab_delta-Blur_Version.27.301.32-29.11.36.payton.retail.en.US.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
