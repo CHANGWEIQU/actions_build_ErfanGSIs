@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://getmega.net/download/file_a27b411de7/ab_delta-Blur_Version.27.301.32-29.11.36.payton.retail.en.US.zip
+  ROM_URL: https://www.icloud.com/iclouddrive/0Hf0AE_bdoWFKhdxxoIa2bq-g#%E7%85%A7%E7%89%87
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
