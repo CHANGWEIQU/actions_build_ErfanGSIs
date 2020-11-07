@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://www.icloud.com/iclouddrive/0Hf0AE_bdoWFKhdxxoIa2bq-g#%E7%85%A7%E7%89%87
+  ROM_URL: https://cvws.icloud-content.com/B/AYOApWyzLjuglF1NicBO6HQ4kOd3AbXgbA2DpJ2VRsPVtoPoLXrXJo2z/TWRP+STOCK+ROM+AUGUST.zip?o=Am-E3rpY68TXLXVCR94xVoVWlA3RxhvLcNAE1RDlAcWj&v=1&x=3&a=CAogj5dKgCu0SssRAlX0h8rmhZ823Se2I20WLRjH7hjj8n0SbxCO-aiR2i4YrvDfkdouIgEAUgQ4kOd3WgTXJo2zaidG4F42y5xKmrcvE8mrJcqeNCUTf9Y0aByLe4JXnOSb48--oa-zGnpyJxZkOoxYoMbRKIeCRdOFignSDuGYMI9Xm7zbRszF2iXuOoZC_NEH4A&e=1604744378&fl=&r=06df7a70-a9ee-4a8c-9ccd-46d483a28577-1&k=mTedNzSEWxB2WvKJLLYwug&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=46&s=Yie4n8-K7CbOWVdMkw0CzVHL8tQ
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
