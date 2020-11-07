@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=1FYO&id=1FGU08Bg3YPEUYPwXumBj69cTCGLicnLl
+  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=sGBu&id=1FGU08Bg3YPEUYPwXumBj69cTCGLicnLl
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
