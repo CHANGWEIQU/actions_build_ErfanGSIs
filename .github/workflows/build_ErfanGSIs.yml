@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://drive.google.com/u/0/uc?export=download&confirm=sGBu&id=1FGU08Bg3YPEUYPwXumBj69cTCGLicnLl
+  ROM_URL: https://ava3.androidfilehost.com/dl/mSy88Pm9_lS4x90sg4yevA/1604894506/1395089523397962199/Stock_ROM_apr_PPTS29.74-41-3-twrp.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
