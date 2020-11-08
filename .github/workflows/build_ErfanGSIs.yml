@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ava3.androidfilehost.com/dl/mSy88Pm9_lS4x90sg4yevA/1604894506/1395089523397962199/Stock_ROM_apr_PPTS29.74-41-3-twrp.zip
+  ROM_URL: http://download1322.mediafire.com/ie4yf6z41brg/l4uuguesbfkwhjb/Stock+Rom+Flashable_2.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
