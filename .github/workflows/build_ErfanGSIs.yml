@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://ava6.androidfilehost.com/dl/Ns5UZIgwHlPbYFaJc-K-rw/1605409265/6006931924117888335/XT1929-5_BECKHAM_RETBR_9.0_PPWS29.131-27-1-2_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/kane/official/RETAIL/KANE_RETAIL_9.0_PSA29.97-3_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
