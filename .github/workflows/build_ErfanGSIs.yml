@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/payton/official/FI/XT1900-1_PAYTON_FI_9.0_PPWS29.69-26-4_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/aljeter/official/RETEU/XT1922-3_ALJETER_RETEU_DS_9.0_PPPS29.55-35-12-5_cid50_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
