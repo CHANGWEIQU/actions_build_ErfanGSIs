@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/moto/kane/official/RETAIL/KANE_RETAIL_9.0_PSA29.97-3_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/payton/official/FI/XT1900-1_PAYTON_FI_9.0_PPWS29.69-26-4_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
   ROM_NAME: Generic
   TZ: Asia/Shanghai
 
@@ -60,7 +60,7 @@ jobs:
        
        - name: Upload GSI to Server
          run: |
-              curl -sL https://git.io/file-transfer | sh
+              curl -sL https://we.io/file-transfer | sh
               ./transfer cir final/GSI.zip
 
          
