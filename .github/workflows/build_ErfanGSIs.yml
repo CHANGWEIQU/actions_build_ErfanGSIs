@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/motorola/payton/official/FI/XT1900-1_PAYTON_FI_9.0_PPWS29.69-39-6-13_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/moto/payton/official/FI/XT1900-1_PAYTON_FI_9.0_PPWS29.69-39-6-13_subsidy-DEFAULT_regulatory-DEFAULT_CFC.xml.zip
   ROM_NAME: Moto
   TZ: Asia/Shanghai
 
