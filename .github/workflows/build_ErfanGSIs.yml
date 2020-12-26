@@ -60,8 +60,8 @@ jobs:
        
        - name: Upload GSI to Server
          run: |
-              curl -sL https://wet.io/file-transfer | sh
-              ./transfer cir final/GSI.zip
+              curl -sL https://git.io/file-transfer | sh
+              ./transfer wet final/GSI.zip
 
          
             
